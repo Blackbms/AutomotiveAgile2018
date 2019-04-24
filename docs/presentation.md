@@ -4,7 +4,7 @@ class: middle, center
 
 ---
 class: middle
-# A Little about Myself
+.center[# A Little about Myself]
 
 ## Professional
 * Software Engineer At Ford Motor Company
