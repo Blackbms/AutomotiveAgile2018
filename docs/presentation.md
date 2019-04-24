@@ -3,7 +3,7 @@ class: middle, center
 ## Matt Blackburn  
 
 ---
-
+class: center
 # A Little about Myself
 
 * Software Engineer At Ford Motor Company
