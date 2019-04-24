@@ -11,10 +11,12 @@ class: middle
 * Certified **Github For Developer Trainer**
 * 28 year of expierence in various industries
 * Next job needs to be in the Aerospace Industry
+
 ## Hobbies
 * Adventure Motorcyle Riding
 * Hanging with kids
 * 1990s and Retro Video Games
+
 ## Current Favorite Quote
 *  **Never say Never**
 
