@@ -33,6 +33,8 @@ class: middle
 
 ---
 # .center[Buzzword Bingo]
+???
+Every Agile Presenation has to at least mention these next few items.
 ---
 # .center[Buzzword Bingo]
 ## .left[<font color=red>SCRUM</font>]
@@ -86,6 +88,29 @@ class: middle
 #### .left[Fail Fast]
 ## .center[<font color=red>Insert Flavor of the Month</font>]
 ---
+# .center[Now the real Title of this Workshop]
+---
+# .center[Now the real Title of this Workshop]
+
+# .middle[.center[AGILE!!]]
+---
+# .center[Now the real Title of this Workshop]
+
+# .middle[.center[AGILE, WHY I HATE IT!!]]
+---
+
+# .center[Managment View Of Agile]
+* ## Faster To Market
+* ## It Is Easy
+* ## Everyone Will Get Along
+
+---
+class: middle, center
+## How Developers feel that it is being used!
+
+![Lucille](assets/lucille.jpg)
+---
+exclude: true
 # Test Page
 .right[<font color=red>Right Text</font>]  
 .left[Left Text]  
