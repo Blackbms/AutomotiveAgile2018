@@ -117,7 +117,7 @@ Every Agile Presenation has to at least mention these next few items.
 
 --
 
-* ## Had Dinner with and Agile Consultant
+* ## Had Dinner with an Agile Consultant
 
 ---
 # .center[Now that we are doing Agile]
