@@ -103,7 +103,7 @@ Every Agile Presenation has to at least mention these next few items.
 # .middle[.center[AGILE, WHY I <font color=red>HATE</font> IT!!]]
 ---
 
-# .center[Why Management wants to do Agile]
+# .center[Why Management wants to DO Agile]
 --
 
 * ## Faster To Market
@@ -168,11 +168,64 @@ Every Agile Presenation has to at least mention these next few items.
 ### .right[We still do documenation, but the <font color=green>Necessary</font> documentation]
 
 ---
-
-
+# .center[Agile and Agility is HARD]
 --
 
+* **People want to paint the house before it is built**  
+   * We need all the requirements for the end product before we can start developing  
+--
 
+* **Malicious Compliance**
+   * Well, since Managment wants to Micromanage me I will put in a User Story in for everything, including breaks I take  
+--
+
+* **Watching People Fail is hard**
+   * It is hard to let people fail and learn, rather than try and jump in and attemp to solve their problems.  After all we are engineers  
+--
+
+* **Batteries are not included**  
+   * Find resources inside and outside your organization to help you rechage your batteries
+      * There are a lot of good **MeetUp** groups in the Detroit area  
+      * If there isn't one in your Organization, create one
+   * There really isn't a 1 size fits all solution, don't be afraid to adapt to your situation  
+--
+
+## .left[Only works when everyone is <font color=red>Fully</font> Invested]
+---
+# Lean Coffee
+A “Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated.”  - *From the Lean Coffee website*
+
+---
+# Lean Coffee
+
+### The Setup is a Personal Kanban
+In this Personal Kanban we have the items to discuss, what we are currently discussing, and the discussed columns.
+
+This provides a structure for the conversation. Next we populate it
+--
+
+### What To Discuss
+Everyon gets a pad of post-it notes and a pen. They then start to add their topics for conversation into the “to discuss” column. These can be literally whatever people want to discuss or follow a theme. Right now, we want to encourage as many unique ideas as we can.
+
+When the ideas start reach a certain point (an you’ll be the best judge of when that is), each topic gets a 1 to 2 sentence introduction. This way people know what to vote for.
+
+---
+# Lean Coffee
+
+### Vote and Talk
+Each participant gets <font color=red>two</font> votes. You can vote twice for the same thing or for two different topics. Simple put a dot on the sticky you are interested in. Tally the dots. Then you are ready to have a conversation.
+
+The power here is that you now have a list of topics everyone at the table is interested in and is motivated to discuss for real.
+
+---
+# Lean Coffee
+### Discussion
+* Will discuss the hight priority topic for <font color=red>5</font> minutes
+* At the end of the time box, will take a simple Roman Thumb Vote (Thumbs Up/Down/Sideways)
+   * Thumbs Up: Continue talking on topic.  Reset Timer to <font color=red>3</font> minutes.
+   * Thumbs Down: Satisfied with the current discussion, let's move on to the next topic.
+   * Thumbs Sideways: Could go either way Up or Down 
+* Repeat until we are out of time or topics
 
 ---
 exclude: true
