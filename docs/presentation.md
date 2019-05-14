@@ -8,7 +8,7 @@ class: middle, center
 ## Professional
 * Software Engineer At Ford Motor Company
 * Certified **Scrum Master**
-* Certified **Github For Developer Trainer**
+* Certified **Github For Developers Trainer**
 * 28 year of expierence in various industries
 --
 
