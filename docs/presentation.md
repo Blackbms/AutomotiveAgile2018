@@ -210,7 +210,7 @@ Every Agile Presenation has to at least mention these next few items.
 
 ## .left[Only works when everyone is <font color=red>Fully</font> Invested]
 ---
-.exclude: true
+exclude: true
 # .center[Let's Get to Know You A Little]
 
 ## Tribes Ice Breaker
