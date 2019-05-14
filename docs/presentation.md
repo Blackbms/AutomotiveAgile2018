@@ -25,7 +25,17 @@ class: middle, center
 * 1990s and Retro Video Games
 
 ## Current Favorite Quote
-*  **Never say Never**
+*  **Never say Never**  
+
+--
+
+.center[I **Never** wanted to move **East** of Lansing]
+--
+
+.center[I **Never** wanted to work for an **Automotive** company]
+--
+
+.center[I am having more <font color=red>**FUN**</font> than I should be allowed to have]
 
 ---
 
