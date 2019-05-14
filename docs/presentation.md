@@ -1,20 +1,24 @@
 class: middle, center  
-# Automotive Agile 2019  
+# Agile for Automotive 2019  
 ## Matt Blackburn  
 
 ---
-class: middle
-# A Little about Myself
+
+# .center[A Little about Myself]
 ## Professional
 * Software Engineer At Ford Motor Company
 * Certified **Scrum Master**
 * Certified **Github For Developer Trainer**
 * 28 year of expierence in various industries
-* Next job needs to be in the **Aerospace** Industry
+--
 
+* Next job needs to be in the **Aerospace** Industry
 ---
-class: middle
-# A Little about Myself
+.center[<img src="assets\PlanesTrainsAndAutomobiles.jpg" width=50%>]
+.footer[.center[Image Source: https://www.imdb.com/title/tt0093748/mediaviewer/rm1855067136]]
+---
+
+# .center[A Little <font color=blue>more</font> about Myself]
 ## Hobbies
 * Adventure Motorcyle Riding
 * Hanging with kids
@@ -26,7 +30,6 @@ class: middle
 ---
 
 # .center[This presentation]
---
 
 * Meant to be a **Participation Event**
 * Point Of View: **Software Engineer** who became a **Scrum Master**
@@ -125,7 +128,12 @@ Every Agile Presenation has to at least mention these next few items.
 
 ## .center[How do Developers feel that it is being rolled out?]
 --
+
+### .center[Meet the New Scrum Master]
+--
+
 .center[![Lucille](assets/lucille.jpg)]
+.center[**Lucille**]
 ---
 
 # .center[Have you heard the following?]
@@ -192,6 +200,11 @@ Every Agile Presenation has to at least mention these next few items.
 
 ## .left[Only works when everyone is <font color=red>Fully</font> Invested]
 ---
+# .center[Let's Get to Know You A Little]
+
+## Tribes Ice Breaker
+
+---
 # Lean Coffee
 A “Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated.”  - *From the Lean Coffee website*
 
@@ -226,7 +239,15 @@ The power here is that you now have a list of topics everyone at the table is in
    * Thumbs Down: Satisfied with the current discussion, let's move on to the next topic.
    * Thumbs Sideways: Could go either way Up or Down 
 * Repeat until we are out of time or topics
+---
+# .center[Thank You For Attending]
 
+.center[URL of this presentation is: https://blackbms.github.io/AutomotiveAgile2019/  
+![QR Code](./assets/qrcode.png)]
+
+#### My Contact Information:
+   Matt Blackburn  
+   matt.blackburn@ford.com
 ---
 exclude: true
 # Test Page
