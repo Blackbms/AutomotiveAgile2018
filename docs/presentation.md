@@ -47,6 +47,7 @@ class: middle, center
 * Presentation Engine is [Remark.js](https://remarkjs.com/#1)
 * URL of this presentation is: https://blackbms.github.io/AutomotiveAgile2019/  
 ![QR Code](./assets/qrcode.png)
+* [Presentation Repository](https://github.com/Blackbms/AutomotiveAgile2019)
 
 ---
 # .center[Buzzword Bingo]
