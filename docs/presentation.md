@@ -6,6 +6,7 @@ class: middle, center
 
 # .center[A Little about Myself]
 ## Professional
+* BS in Computer Sciene from Michigan Technological University
 * Software Engineer At Ford Motor Company
 * Certified **Scrum Master**
 * Certified **Github For Developers Trainer**
@@ -41,6 +42,8 @@ class: middle, center
 
 # .center[This presentation]
 
+* Wish I could have partnered with this morningz workshop
+   * A lot of common ideas and problems 
 * Meant to be a **Participation Event**
 * Point Of View: **Software Engineer** who became a **Scrum Master**
 * Hosted on **GitHub** using **GitHub Pages**
