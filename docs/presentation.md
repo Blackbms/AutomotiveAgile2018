@@ -210,10 +210,34 @@ Every Agile Presenation has to at least mention these next few items.
 
 ## .left[Only works when everyone is <font color=red>Fully</font> Invested]
 ---
-exclude: true
-# .center[Let's Get to Know You A Little]
+-exclude: true
+# .center[Let's Get to Know Each Other A Little]
 
-## Tribes Ice Breaker
+## Constellation Exercise
+http://anagilemind.net/2019/02/20/team-building-icebreaker-constellation-exercise/  
+
+### Situations you might use it in
+* Team Building (during a team launch or reboot)
+* Start of meeting (i.e. retrospective)
+* Gain consensus when team has high trust and psychological safety. If you don’t have these, then some team members may just follow the crowd
+---
+## Constellation Exercise
+### Basics of the Activity
+1. Clear a decent size space for the amount of people in the exercise to move around  
+1. Place an object as the center of universe (i.e. roll of masking tape, paper plate, fidget toy).
+Form circle around the center of universe  
+1. Make statement (see examples below)  
+1. Move based on level of agreement. If you strongly agree, move very close to the center of the universe. If you strongly disagree, move very far from the center of the universe. Don’t be surprised if some people will almost want to go through a wall to get further from the center of the universe  
+---
+## Constellation Exercise
+### Sample Starter Statements
+1. I enjoy political conversations  
+1. I enjoy public speaking  
+1. I believe we are producing a high quality product  
+1. I feel confident we can complete the stories for this sprint (if you are working in a Scrum framework)  
+1. I like team building exercises  
+1. I love country music  
+
 
 ---
 # Lean Coffee
