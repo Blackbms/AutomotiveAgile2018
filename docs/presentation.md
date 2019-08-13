@@ -43,7 +43,7 @@ class: middle, center
 
 # .center[This presentation]
 
-* Wish I could have partnered with this morningz workshop
+* Wish I could have partnered with this mornings workshop
    * A lot of common ideas and problems 
 * Meant to be a **Participation Event**
 * Point Of View: **Software Engineer** who became a **Scrum Master**
